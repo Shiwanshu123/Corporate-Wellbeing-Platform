@@ -22,7 +22,9 @@ Local Testing: The project uses basic HTML, CSS, and JavaScript files. To test t
 Open the index.html file in a browser.
 Verify that the health tracking, mental wellness, and finance features are functioning properly.
 Ensure that the data input and display for each section (health, mental wellness, finance) work as expected.
+
 Deployment Instructions
+
 Deploy to Netlify
 To deploy your project on Netlify, follow these steps:
 
@@ -48,16 +50,7 @@ Build command: Leave this empty (because it's a static site with no build proces
 Publish directory: Set this to ./ (root directory) since all files are in the root of the project.
 Deploy the Site: Click on Deploy Site to start the deployment process. Netlify will automatically build and deploy the project.
 
-Confirm Deployment:
+Confirm Deployment: After deployment, you can visit the live site at the following URL:
 
-After deployment, Netlify will provide you with a unique URL (e.g., https://your-site-name.netlify.app).
-Open the URL and ensure the website is functioning correctly.
-Custom Domain (Optional)
-If you'd like to use a custom domain, you can configure it within the Netlify dashboard:
+Corporate Wellbeing Platform
 
-Go to your site settings in Netlify.
-Under Domain Management, click Add custom domain.
-Follow the instructions to connect your domain.
-Updates and Maintenance
-To update the website, simply make changes to the code, commit them, and push to the GitHub repository.
-Netlify will automatically deploy the new changes once they are pushed to the main branch.
